@@ -10,9 +10,11 @@ Aprende en qué consisten cada uno de los principios SOLID, con un ejemplo en C#
 
 <hr/>
 
-![](./preview1.PNG)
+![](./preview01.PNG)
 <br/><br/>
-![](./preview2.PNG)
+![](./preview02.PNG)
+<br/><br/>
+![](./preview03.PNG)
 
 # 🌍 Por si deseas contactarme 👨‍💻 :
 
