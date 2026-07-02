@@ -2,11 +2,11 @@
 
 Aprende en qué consisten cada uno de los principios SOLID, con un ejemplo en C# y .NET. Conocerás cómo funcionan cada uno de estos principios y cómo puedes aplicarlos en tus proyectos personal y profesionales:
 
-✅ Single Responsibility
-✅ Open/Closed
-✅ Liskov Substitution
-✅ Interface Segregation
-✅ Dependency Inversion
+- ✅ Single Responsibility
+- ✅ Open/Closed
+- ✅ Liskov Substitution
+- ✅ Interface Segregation
+- ✅ Dependency Inversion
 
 <hr/>
 
